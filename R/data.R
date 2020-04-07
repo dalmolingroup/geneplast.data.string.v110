@@ -1,5 +1,5 @@
 #' @docType data
-#' @name gpdata_string_v11
+#' @name gpdata_string_v110
 #' @aliases cogids cogdata sspids phyloTree
 #' @title Data package used in evolutionary root inference reconstruction containing four objects derived from the STRING database, release 11.0
 #' @format Dataset with cogids, cogdata, sspids, phyloTree.
@@ -22,7 +22,7 @@
 #'     \item Phylogenetic tree with 476 tips and 372 internal nodes describing relations between all Eukaryotes listed in the 'sspids' object.
 #'   }
 #' }
-#' @usage data(gpdata_string_v11)
+#' @usage data(gpdata_string_v110)
 #' @description Data package used in evolutionary root inference reconstruction containing four objects derived from the STRING database, release 11.0
 #' @keywords datasets
 #' @source \url{https://string-db.org/}
